@@ -1,0 +1,59 @@
+1. La primera computadora?
+	* Abaco?
+	* Grandes y poco proceso.
+	* 60 IA
+	* desktop => 95
+	* laptop => 2000
+	* phone => 95
+	* smart phone => 2007
+	* automatización - fuerte IA
+	
+===========================
+Lenguaje Máquina
+Lenguaje Ensamblador
+Lenguaje de Alto Nivel
+	Compilación - Interpretados
+	
+	* C++
+	* Java
+	* Java Script
+	* C
+	* Python
+	* C#
+	* Ruby
+	* Kotlin
+	* PHP
+	
+	=> Inglés
+	=> Operadores
+		=> Arímeticos
+			. ^ % * / + -
+		=> Relacionales
+			. > >= < <= !=
+		=> Lógicos
+			. AND
+				T & T = T
+				T & F = F
+				F & T = F
+				F & F = F
+			. OR
+				T & T = T
+				T & F = T
+				F & T = T
+				F & F = F
+			. NOT
+				!(T) = F
+				!(F) = T
+				
+	Se sabe que una persona es mayor de edad, solo sí tiene 18 o más años. Tambéin se conoce que las edades permitidas son de 1-130
+				
+	
+
+PEREZ TRIANA MICHAEL ADONIS OK
+RAMIREZ BELLO ANGEL DAVID OK
+GUILOMBO VIDALES LEONARDO NO
+ROJAS CALDERON JUAN PABLO OK
+MUÑOZ MONTENEGRO CRISTIAN ANDRES OK
+MANJARRES POLO MARLON ALEXIS OK 
+OLAYA SANMIGUEL DANIEL OK
+
